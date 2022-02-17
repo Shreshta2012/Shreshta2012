@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreshta2012
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning how to hack blooket
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 never reach me
 
 <!---
